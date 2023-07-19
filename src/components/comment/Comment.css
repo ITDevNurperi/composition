@@ -1,0 +1,11 @@
+.comment {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.comment-text {
+    color: rgb(192, 112, 8);
+    font-size: 17px;
+}

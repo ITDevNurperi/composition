@@ -1,0 +1,8 @@
+.card {
+    padding: 20px;
+    color: rgb(250, 168, 61);
+    box-shadow: 2px 2px 4px rgb(243, 147, 3);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
